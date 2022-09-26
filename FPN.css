@@ -1,0 +1,452 @@
+*{
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	margin:0px;
+	padding: 0px;
+	font-family: "open sans", sans-serif;
+	background-image:url("perpus2.jpg");
+	background-size:cover;
+}
+
+.wrap{
+	width:1100px;
+	margin:auto;
+	position:relative;
+}
+
+.logo a{
+	font-size: 60px;
+	font-weight: bold;
+	float: left;
+	font-family: courier;
+	color: #94DAFF;
+	margin:0px;
+}
+
+.menu{
+	float: right;
+}
+
+nav{
+	width:100%;
+	margin:0;
+	display:flex;
+	line-height:80px;
+	position:stiky;
+	position:-webkit-sticky;
+	top:50px;
+	background:#323232;
+	z-index:10000;
+}
+
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+nav ul li{
+	float:left;
+	
+}
+
+nav ul li a{
+	font-weight:bold;
+	text-align:center;
+	padding:0px 20px 0px 20px;
+	text-decoration: none;
+}
+
+nav ul li a:hover{
+	text-decoration:underline;
+	text-decoration-color:blue;
+	color:red;
+	
+}
+
+
+section{
+	margin:auto;
+	display:flex;
+	margin-bottom: 50px;
+}
+
+.kolom{
+	margin-top:50px;
+	margin-bottom:50px;
+	padding:0px 50px 0px 50px;
+}
+
+.kolom .deskripsi{
+	font-size:20px;
+	font-weight:bold;
+	font-family: "comic sans ms";
+	color:#5584AC;
+}
+
+h2{
+	font-family: "comic sans ms";
+	font-weight: 800;
+	font-size: 45px;
+	margin-bottom: 20px;
+	color:#051367;
+	width:100%;
+	line-height:50px;
+
+}
+
+
+a.tabel{
+	background:#8479E1;
+	border-radius: 10px;
+	margin-top:20px;
+	padding:15px 20px 15px 20px;
+	color: #EEEEEE;
+	cursor: pointer;
+	font-weight:bold;
+}
+
+a.tabel:hover{
+	background:#3A3845;
+	text-decoration:none;
+}
+
+a.tombol{
+	background:#3A3845;
+	border-radius: 20px;
+	margin-top:20px;
+	padding:15px 20px 15px 20px;
+	color: #FFFFFF;
+	cursor: pointer;
+	font-weight:bold;
+}
+
+a.tombol:hover{
+	background:#8479E1;
+	text-decoration:none;
+}
+
+p.wrap{
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+
+
+.footer{
+	background:#C9D6DF;
+	padding:10px;
+	margin:auto;
+	text-align:center;
+	font-family: courier;
+	border-radius:10px;
+}
+
+b{
+	font-weight:bold;
+	font-family: courier;
+	text-decoration:underline;
+}
+
+.intro{
+	margin:20px;
+	padding:5px;
+}
+
+
+.pilih ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+.pilih ul li{
+	float:left;
+}
+
+.pilih ul li p{
+	font-weight:bold;
+	text-align:center;
+	padding:0px 16px 0px 16px;
+	text-decoration: none;
+}
+
+.pilih ul li p:hover{
+	text-decoration:underline;
+	text-decoration-color:blue;
+}
+
+.pilihan{
+	color:#30AADD;
+}
+
+
+.inot{
+	width:1100px;
+	margin:30px;
+	position:relative;
+}
+
+.inot a.dongeng{
+	background:#14FFEC;
+	border-radius: 50px;
+	padding:25px 30px 25px 30px;
+	color: #323232;
+	cursor: pointer;
+	text-align:center;
+	margin:10px;
+	font-weight:bold;
+	
+}
+
+.inot a.Dongeng{
+	background:#3A3845;
+	border-radius: 50px;
+	padding:25px 30px 25px 30px;
+	color:white;
+	cursor: pointer;
+	text-align:center;
+	margin:10px;
+	font-weight:bold;
+	
+}
+
+.inot a.dongeng:hover{
+	background:#3A3845;
+	text-decoration:none;
+	color:white;
+}
+
+.inot a.nyata{
+	background:#D6E6F2;
+	border-radius: 10px;
+	padding:25px 30px 25px 30px;
+	color: #323232;
+	cursor: pointer;
+	text-align:center;
+	font-weight:bold;
+	
+}
+
+.inot a.Nyata{
+	background:#3A3845;
+	border-radius: 10px;
+	padding:25px 30px 25px 30px;
+	color:white;
+	cursor: pointer;
+	text-align:center;
+	margin:10px;
+	font-weight:bold;
+	
+}
+
+.inot a.nyata:hover{
+	background:#3A3845;
+	text-decoration:none;
+	color:white;
+}
+
+.inot a.fiksi{
+	background:#FF9A00;
+	border-radius: 100px;
+	padding:25px 30px 25px 30px;
+	color: #323232;
+	cursor: pointer;
+	text-align:center;
+	margin:10px;
+	font-weight:bold;
+	
+}
+
+.inot a.Fiksi{
+	background:#3A3845;
+	border-radius: 100px;
+	padding:25px 30px 25px 30px;
+	color:white;
+	cursor: pointer;
+	text-align:center;
+	margin:10px;
+	font-weight:bold;
+	
+}
+
+.inot a.fiksi:hover{
+	background:#3A3845;
+	text-decoration:none;
+	color:white;
+}
+
+h4{
+	font-weight: bold;
+}
+
+.pengertian{
+	margin:20px;
+}
+
+.bumu{
+	padding:20px 10px 20px 10px;
+	color:black;
+	width:350px;
+	height:auto;
+	margin:20px auto;
+	background-color:#D6E6F2;
+	opacity:0.8;
+	border-radius:3px;
+}
+
+
+.bk{
+	color:#B20600;
+	text-align:center;
+	background:#303841;
+	border-radius: 2px;
+	padding:10px 10px 10px 10px;
+	color: #ffffff;
+	cursor: pointer;
+	text-align:center;
+	font-weight:bold;
+}
+
+.lbl{
+	padding-top:13px;
+}
+
+#submit{
+	background:#0093AB;
+	border-radius:20px;
+	border:none;
+	box-shadow:0px 1px 8px #332FD0;
+	cursor:pointer;
+	color:black;
+	font-family: "comic sans ms";
+	height:30px;
+	margin:0 auto;
+	margin-top:50px;
+	transition:0.25s;
+	width:100px;
+}
+
+#submit:hover{
+	box-shadow:0px 1px 18px #ffffff;
+}
+
+.from{
+	align-items:left;
+	display:flex;
+	flex-direction:column;
+}
+
+.from-border{
+	height:1px;
+	width:100%;
+}
+
+.from-content{
+	width:330px;
+	height:25px;
+	margin:3px;
+	border-radius:5px;
+	text-align:center;
+	font-family: "comic sans ms";
+	background:#6FDFDF;
+	color:black;
+}
+
+.from-content:focus{
+	outline:none;
+}
+
+.ta{
+	background:#6FDFDF;
+	width:330px;
+	height:50px;
+	padding:1px;
+	border-radius:5px;
+}
+.cari{
+	margin:20px;
+	
+}
+
+.pdpd{
+	margin:20px;
+	padding:25px 30px 25px 30px;
+}
+
+.PD{
+	background:#393E46;
+	border-radius: 5px;
+	padding:25px 30px 25px 30px;
+	color: white;
+	cursor: pointer;
+	text-align:center;
+	font-weight:bold;
+	opacity:0.9;
+}
+
+.kotak{
+	background:#99C4C8;
+	margin:20px;
+	width:auto;
+	height:auto;
+	display:flex;
+	position:none;
+	justify-content: center;
+	align-items:center;
+	float:center;
+	opacity:0.8;
+	padding:20px 20px 20px 20px;
+	border-radius:10px;
+}
+
+.kotak h2.cerita{
+	text-align:center;
+	color:red;
+	font-family:"lucida sans typewriter";
+}
+
+.kembali{
+	width:330px;
+	height:25px;
+	margin:30px 30px 30px 30px;
+	border-radius:5px;
+	text-align:center;
+	font-family: "comic sans ms";
+	background:#6FDFDF;
+	color:black;
+	padding:10px 20px;
+	float:center;
+}
+
+.kembali:hover{
+	width:330px;
+	height:25px;
+	margin:30px 30px 30px 30px;
+	border-radius:5px;
+	text-align:center;
+	font-family: "comic sans ms";
+	background:black;
+	color:white;
+	padding:10px 20px;
+}
+
+.CRT {
+	margin:20px 20px 20px 20px;
+	background:#99C4C8;
+	width:auto;
+	height:auto;
+	display:flex;
+	position:none;
+	justify-content: center;
+	float:center;
+	opacity:0.8;
+	padding:20px 20px 20px 20px;
+	border-radius:10px;
+}
