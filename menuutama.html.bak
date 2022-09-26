@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>215410012(FPN)</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="FPN.css">
+</head>
+<body>
+	<nav>
+		<div class="wrap">
+			<div class="logo"><a href="">Perpus Cerita</a></div>
+			<div class="menu">
+				<ul>
+					<li><a class=pilihan href="myproject.html">Home</a></li>
+					<li><a class=pilihan href="#cources">Menu Utama</a></li>
+					<li><a class=pilihan href="https://lldikti5.kemdikbud.go.id/home/detailpost/universitas-teknologi-digital-indonesia" target="_blank">Tentang Kami</a></li>
+					<li><a href="bukutamu.html" class="tabel">Buku Tamu</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<br>
+	<div class=inot>
+		<a class=dongeng href="dongeng.html">DONGENG</a>
+		<a class=nyata href="nyata.html">NYATA</a>
+		<a class=fiksi href="fiksi.html">FIKSI</a>
+	</div>
+	<br><br>
+	<div class=pengertian>
+		<h4>Pengertian Cerita Dongeng</h4><br>
+		<p>Dongeng merupakan bentuk sastra lama yang bercerita tentang suatu kejadian 
+		yang luar biasa dan penuh khayalan, sehingga dianggap oleh masyarakat cerita tersebut 
+		tidak benar-benar terjadi.</p><br>
+		<p>Menurut KBBI, dongeng diartikan sebagai cerita yang tidak benar-benar terjadi 
+		terutama tentang kejadian zaman dahulu yang aneh-aneh.</p><br>
+		<p>Dongeng diceritakan untuk hiburan, meskipun dalam kenyataannya banyak 
+		cerita dalam dalam sebuah dongeng yang melukiskan kebenaran karena mengandung 
+		pelajaran moral, bahkan sindiran.</p><br>
+		
+		<h4>Pengertian Cerita Nyata </h4>
+		<p>Cerita yang diangkat atau dipublikasikan dari peristiwa yang benar-benar terjadi</p><br>
+		
+		<h4>Pengertian Cerita Fiksi</h4>
+		<p>Fiksi sebuah kata yang dari bahasa Inggris fiction yang bermakna buatan atau angan-angan. 
+		Narasi fiksi bermakna narasi yang tidak ada sesungguhnya. Lebih luas, pemahaman narasi 
+		fiksi ialah sebuah kreasi satra yang memiliki sifat imajinasi atau angan-angan dari penulis 
+		dan bukan peristiwa yang sesungguhnya. Dalam kata lain narasi fiksi tidak ada secara 
+		sesungguhnya dalam dunia riil tapi cuman berdasar imajinasi, pemikiran, atau angan-angan seorang.</p><br>
+
+		<p>Walau narasi fiksi cuman imajinasi dari penulis tetapi narasi fiksi masih logis dan dapat 
+		memiliki kandungan kebenaran yang dapat mendramatisasi hubungan-hubungan antar manusia.</p><br>
+
+		<p>Narasi fiksi umumnya berdasar riwayat, peristiwa atau pengalaman hidup si penulis atau 
+		orang yang lain diberi bumbu dengan imajinasi-imajinasi dari penulisanya.</p><br>
+
+		<p>Pengertian Cerita Fiksi ini juga sebagai narasi angan-angan yang tidak ada sesungguhnya. 
+		Narasi fiksi dibikin berdasar pada imajinasi dan kreasi dari sang penulis narasi. Kreasi 
+		sastra ini umumnya memvisualisasikan peristiwa atau pengalaman seorang, atau riwayat yang 
+		diberi bumbu dengan imajinasi dari penulis.</p><br>
+
+		<p>Maka narasi fiksi condong mempunyai susunan yang bebas atau sesuai penulis. Walau begitu, 
+		narasi fiksi umumnya penuh pesan kepribadian didalamnya.</p><br>
+
+		<p>Walau cuman berbentuk narasi angan-angan atau imajinasi, kreasi sastra fiksi bisa 
+		dibuktikan banyak disukai. Beberapa orang yang nikmati kreasi sastra fiksi, seperti 
+		cerpen, novel, dongeng, dan lain-lain.</p><br>
+	</div>
+	
+	<div class="footer"><br>
+		<p href=""><img width="20px"src="ig.png">  @febrian_pramudya_</p>
+		<p href=""><img width="20px"src="wa.png">  0895-1407-3050</p>
+		<a href="https://join.utdi.ac.id/?utm_source=Google&utm_medium=SEM&utm_campaign=CNV&utm_term=Brand&utm_content=UTDI&gclid=CjwKCAjw9e6SBhB2EiwA5myr9qBXQg434TwAOwrDUsr3NMrn7nSQb8nJ7NKAtG1vl3orsVpHKv2QMxoCwM8QAvD_BwE" target="_blank"><img width="20px"src="website.png">  UTDI Yogyakarta</a><br>
+	</div>
+</body>
+</html>
